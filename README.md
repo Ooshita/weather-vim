@@ -12,3 +12,5 @@ Get a day weather your country.
 :WeatherDetail   
 Get 1week weather your country.  
 
+You need webapi-vim.    
+https://github.com/mattn/webapi-vim  
