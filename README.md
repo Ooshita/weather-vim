@@ -3,11 +3,12 @@ Get information weather.
 
 How to use.  
 into weather.vim to plugin folder.  
-
+example
+.vim/plugin/weather.vim
 ##In normal mode.
 
-:Weather
+:Weather  
 Get a day weather your country.  
-:WeatherDetail 
+:WeatherDetail   
 Get 1week weather your country.  
 
